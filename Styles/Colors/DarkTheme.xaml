@@ -1,0 +1,36 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="WindowBackground" Color="#121214"/>
+    <SolidColorBrush x:Key="TextPrimary" Color="#E4E4E7"/>
+    <SolidColorBrush x:Key="MenuBackground" Color="#1A1A1E"/>
+    <SolidColorBrush x:Key="MenuForeground" Color="#A1A1AA"/>
+    <SolidColorBrush x:Key="ButtonBackground" Color="#27272A"/>
+    <SolidColorBrush x:Key="ButtonHover" Color="#3F3F46"/>
+    <SolidColorBrush x:Key="ButtonPressed" Color="#18181B"/>
+    <SolidColorBrush x:Key="ButtonForeground" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="ButtonBorder" Color="#52525B"/>
+    <SolidColorBrush x:Key="ButtonBorderHover" Color="#FFFFFF"/>
+
+
+    <SolidColorBrush x:Key="ButtonMinorBackground" Color="#FF496C"/>
+    <SolidColorBrush x:Key="ButtonMinorHover" Color="#F64A46"/>
+    <SolidColorBrush x:Key="ButtonMinorPressed" Color="#F7943C"/>
+    <SolidColorBrush x:Key="ButtonMinorBorder" Color="#EB5284"/>
+    <SolidColorBrush x:Key="ButtonMinorBorderHover" Color="#FFFFFF"/>
+
+    <SolidColorBrush x:Key="ButtonDangerBackground" Color="#702963"/>
+    <SolidColorBrush x:Key="ButtonDangerHover" Color="#C154C1"/>
+    <SolidColorBrush x:Key="ButtonDangerPressed" Color="#BD33A4"/>
+    <SolidColorBrush x:Key="ButtonDangerBorder" Color="#DD80CC"/>
+    <SolidColorBrush x:Key="ButtonDangerBorderHover" Color="#FFFFFF"/>
+
+    <SolidColorBrush x:Key="RudioButtonChecked" Color="#ABCDEF"/>
+    <SolidColorBrush x:Key="ProgressBarBackground" Color="#3E5F8A"/>
+    <SolidColorBrush x:Key="ProgressBarHover" Color="#304F8A"/>
+    <SolidColorBrush x:Key="ProgressBarEnabled" Color="#3F3F46"/>
+    <SolidColorBrush x:Key="ProgressBarForegroundEnabled" Color="#27272A"/>
+    <SolidColorBrush x:Key="ProgressBarForeground" Color="#ABCDEF"/>
+    <SolidColorBrush x:Key="CheckBoxBackground" Color="#ABE8DD"/>
+    <SolidColorBrush x:Key="Accent" Color="#ABE8DD"/>
+    <SolidColorBrush x:Key="ComboBoxForeground" Color="#0F172A"/>
+</ResourceDictionary>

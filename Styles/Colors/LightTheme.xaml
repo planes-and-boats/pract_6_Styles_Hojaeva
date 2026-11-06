@@ -1,0 +1,37 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="WindowBackground" Color="#F0FDFA"/>
+    <SolidColorBrush x:Key="TextPrimary" Color="#0F172A"/>
+    <SolidColorBrush x:Key="MenuBackground" Color="#E0F2FE"/>
+    <SolidColorBrush x:Key="MenuForeground" Color="#0369A1"/>
+    <SolidColorBrush x:Key="ButtonBackground" Color="#0EA5E9"/>
+    <SolidColorBrush x:Key="ButtonHover" Color="#38BDF8"/>
+    <SolidColorBrush x:Key="ButtonPressed" Color="#0284C7"/>
+    <SolidColorBrush x:Key="ButtonForeground" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="ButtonBorder" Color="#0EA5E9"/>
+    <SolidColorBrush x:Key="ButtonBorderHover" Color="#0F172A"/>
+
+
+    <SolidColorBrush x:Key="ButtonMinorBackground" Color="#77DD77"/>
+    <SolidColorBrush x:Key="ButtonMinorHover" Color="#0BDA51"/>
+    <SolidColorBrush x:Key="ButtonMinorPressed" Color="#057638"/>
+    <SolidColorBrush x:Key="ButtonMinorBorder" Color="#1CD3A2"/>
+    <SolidColorBrush x:Key="ButtonMinorBorderHover" Color="#0F172A"/>
+
+
+    <SolidColorBrush x:Key="ButtonDangerBackground" Color="#c29ce7"/>
+    <SolidColorBrush x:Key="ButtonDangerHover" Color="#9370D8"/>
+    <SolidColorBrush x:Key="ButtonDangerPressed" Color="#b184e1"/>
+    <SolidColorBrush x:Key="ButtonDangerBorder" Color="#7442C8"/>
+    <SolidColorBrush x:Key="ButtonDangerBorderHover" Color="#0F172A"/>
+
+    <SolidColorBrush x:Key="RudioButtonChecked" Color="#6495ED"/>
+    <SolidColorBrush x:Key="ProgressBarBackground" Color="#0EA5E9"/>
+    <SolidColorBrush x:Key="ProgressBarHover" Color="#38BDF8"/>
+    <SolidColorBrush x:Key="ProgressBarEnabled" Color="#A1A1AA"/>
+    <SolidColorBrush x:Key="ProgressBarForegroundEnabled" Color="#27272A"/>
+    <SolidColorBrush x:Key="ProgressBarForeground" Color="#62639B"/>
+    <SolidColorBrush x:Key="CheckBoxBackground" Color="#38BDF8"/>
+    <SolidColorBrush x:Key="Accent" Color="#6495ED"/>
+    <SolidColorBrush x:Key="DefoultForeground" Color="#0F172A"/>
+</ResourceDictionary>
